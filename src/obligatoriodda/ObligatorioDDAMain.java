@@ -7,7 +7,7 @@ package obligatoriodda;
 
 import CrossCutting.Administrador;
 import CrossCutting.Product;
-import presentacion.socio.jfrmABMSocios;
+import presentacion.jfrmABMSocios;
 
 /**
  *

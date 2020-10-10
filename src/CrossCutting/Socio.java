@@ -73,9 +73,5 @@ public class Socio {
     public void setDisponible(boolean _disponible) {
         this._disponible = _disponible;
     }
-    
-    public void factoryMethod()
-    {
-        
-    }
+
 }

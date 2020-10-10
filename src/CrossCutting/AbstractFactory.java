@@ -9,6 +9,8 @@ package CrossCutting;
  *
  * @author juanm
  */
+
+//Clase abstracta que posee el metodo de Creacion, y que sera sobreescrito en el creador. En nuestro caso el Administrador.
 public abstract class AbstractFactory {
     
      abstract Product CrearProducto(TipoProducto pTipo);

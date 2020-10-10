@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package presentacion.socio;
+package presentacion;
 
 import CrossCutting.Administrador;
 import CrossCutting.Product;
@@ -139,8 +139,6 @@ public class jfrmABMSocios extends javax.swing.JFrame {
                 .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 80, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(199, Short.MAX_VALUE))
         );
-
-        btnAgregarSocio.getAccessibleContext().setAccessibleName("Agregar");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

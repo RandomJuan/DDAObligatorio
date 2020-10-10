@@ -8,7 +8,7 @@ package CrossCutting;
  *
  * @author juanm
  */
-public class Session {
+public class Session  {
     
     private static Session sesion;
     private Administrador admin;

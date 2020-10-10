@@ -9,7 +9,7 @@ package CrossCutting;
  *
  * @author juanm
  */
-public class Administrador extends AbstractFactory {
+public class Usuario {
     
     private int _id;
     private String _usuario;
@@ -38,18 +38,7 @@ public class Administrador extends AbstractFactory {
     public void setContrasenia(String _contrasenia) {
         this._contrasenia = _contrasenia;
     }
-
-
-    @Override//Metodo de Creacion heredado de AbstractFactory.
-    public Product CrearProducto(TipoProducto pTipo) {
-       switch(pTipo)
-        {
-            case Categoria:
-                return new Categoria();              
-                
-            default:
-                return null;
-        }
-    }
-
+    
+    
+    
 }

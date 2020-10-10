@@ -3,7 +3,26 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/presentacion/jfrmABMSocios.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/Dominio/Login.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/Persistencia/pConexion.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/Persistencia/pCuota.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/CrossCutting/Product.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/CrossCutting/Socio.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/CrossCutting/Administrador.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/Dominio/Fachada.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/CrossCutting/Usuario.java</file>
             <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/obligatoriodda/ObligatorioDDAMain.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/Persistencia/pSocio.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/presentacion/jfrmLogin.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/Dominio/dCuota.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/CrossCutting/TipoProducto.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/Persistencia/pCategoria.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/CrossCutting/Session.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/CrossCutting/Categoria.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/CrossCutting/Cuota.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/Persistencia/pAdministrador.java</file>
+            <file>file:/C:/Users/juanm/Desktop/DDAObligatorio/src/CrossCutting/AbstractFactory.java</file>
         </group>
     </open-files>
 </project-private>
